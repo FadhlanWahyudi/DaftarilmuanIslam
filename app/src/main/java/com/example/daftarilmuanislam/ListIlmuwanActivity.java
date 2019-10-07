@@ -21,7 +21,11 @@ public class ListIlmuwanActivity extends AppCompatActivity {
             "Ibnu Sina",
             "Jabir Ibn- Hayyan",
             "Thbit ibn Qurra",
-            "Umar Khayyam"};
+            "Umar Khayyam",
+            "Abbas Ibn Firnas",
+            "Ibn Al Haytham",
+            "Ahmad Ibn Tulun"};
+    
     int[] gambar = {R.drawable.alkhawarizmi,
             R.drawable.alzahrawi,
             R.drawable.ibnualbhaitar,
@@ -31,7 +35,10 @@ public class ListIlmuwanActivity extends AppCompatActivity {
             R.drawable.ibnusina,
             R.drawable.jabilibnhayyan,
             R.drawable.thbitibnqurra,
-            R.drawable.umarkhayyam,};
+            R.drawable.umarkhayyam,
+            R.mipmap.ic_launcher,
+            R.mipmap.ic_launcher,
+            R.mipmap.ic_launcher};
 
     String[] url = {
            " https://id.wikipedia.org/wiki/Mu%E1%B8%A5ammad_bin_M%C5%ABs%C4%81_al-Khaw%C4%81rizm%C4%AB",
@@ -52,7 +59,13 @@ public class ListIlmuwanActivity extends AppCompatActivity {
 
     "https://id.wikipedia.org/wiki/Tsabit_bin_Qurrah",
 
-    "https://id.wikipedia.org/wiki/Umar_Khayy%C4%81m  "
+    "https://id.wikipedia.org/wiki/Umar_Khayy%C4%81m",
+        
+    "https://republika.co.id/berita/islampedia/ilmuwan/pnbj6s313/abbas-ibn-firnas-penemu-pesawat-dari-andalusia",
+        
+    "https://www.cnnindonesia.com/teknologi/20150225111438-199-34692/ibnu-al-haytham-tokoh-islam-yang-disebut-bapak-optik",
+        
+    "https://id.wikipedia.org/wiki/Ahmad_bin_Tulun"
     };
 
     @Override
