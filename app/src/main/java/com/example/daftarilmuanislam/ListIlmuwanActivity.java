@@ -36,9 +36,9 @@ public class ListIlmuwanActivity extends AppCompatActivity {
     String[] url = {
            " https://id.wikipedia.org/wiki/Mu%E1%B8%A5ammad_bin_M%C5%ABs%C4%81_al-Khaw%C4%81rizm%C4%AB",
 
-    "https://id.wikipedia.org/wiki/Abu_al-Qasim_al-Zahrawi",
+    "https://id.wikipedia.org/wiki/Abu_al-Qasim_al-Zahrawi, al-zahrawi adalah ilmuan islam yang menemukan aljabar, pada masa itu mereka belum bisa menghitung aljabar dengan betul dan tepat, jadi al-zahrawi membuat rumus aljabar",
 
-    "https://id.wikipedia.org/wiki/Ibnu_al-Baithar",
+    "https://id.wikipedia.org/wiki/Ibnu_al-Baithar, dia adalah ilmuan yang hebat dari kalangan kaum muslimin",
 
    " https://id.wikipedia.org/wiki/Ibnu_al-Nafis",
 
