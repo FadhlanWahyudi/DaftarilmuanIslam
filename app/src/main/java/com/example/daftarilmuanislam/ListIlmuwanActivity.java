@@ -21,7 +21,9 @@ public class ListIlmuwanActivity extends AppCompatActivity {
             "Ibnu Sina",
             "Jabir Ibn- Hayyan",
             "Thbit ibn Qurra",
-            "Umar Khayyam"};
+            "Umar Khayyam",
+                    "Muhammad al-Fazari",
+                    "Al-Hasan bin Mūsā bin Syakir"};
     int[] gambar = {R.drawable.alkhawarizmi,
             R.drawable.alzahrawi,
             R.drawable.ibnualbhaitar,
@@ -31,7 +33,8 @@ public class ListIlmuwanActivity extends AppCompatActivity {
             R.drawable.ibnusina,
             R.drawable.jabilibnhayyan,
             R.drawable.thbitibnqurra,
-            R.drawable.umarkhayyam,};
+            R.drawable.umarkhayyam,
+                   R.drawable.umarkhayyam};
 
     String[] url = {
            " https://id.wikipedia.org/wiki/Mu%E1%B8%A5ammad_bin_M%C5%ABs%C4%81_al-Khaw%C4%81rizm%C4%AB",
